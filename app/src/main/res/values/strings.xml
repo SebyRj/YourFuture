@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string name="button_text">A click away from your future</string>
+    <string name="todo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="tOdo">TODO</string>
+</resources>
